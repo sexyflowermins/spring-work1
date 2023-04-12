@@ -1,6 +1,7 @@
 package ch02;
 
 public class Encoder {
+	
 	private IEncoder iEncoder;
 	
 	//DI 의존 주입 설정 + 전략 패턴
